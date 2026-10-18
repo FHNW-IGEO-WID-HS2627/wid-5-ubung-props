@@ -1,0 +1,2994 @@
+[
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Stand der amtlichen Vermessung (Daten)",
+    "Beschreibung": "Die Übersicht zeigt losweise den aktuellen Stand der amtlichen Vermessung, den verantwortlichen Geometer (Datenabgabestelle) sowie die beteiligten Flächenanteile, aufgeteilt nach Beitragszonen resp. Toleranzstufen gemäss TVAV Art. 3",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Stand der amtlichen Vermessung",
+    "Beschreibung": "Die Übersicht zeigt losweise den aktuellen Stand der amtlichen Vermessung, den verantwortlichen Geometer (Datenabgabestelle) sowie die beteiligten Flächenanteile, aufgeteilt nach Beitragszonen resp. Toleranzstufen gemäss TVAV Art. 3",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_ZG",
+    "Titel": "Amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_BS",
+    "Titel": "Amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Stand der amtlichen Vermessung",
+    "Beschreibung": "Die Übersicht zeigt losweise den aktuellen Stand der amtlichen Vermessung, den verantwortlichen Geometer (Datenabgabestelle) sowie die beteiligten Flächenanteile, aufgeteilt nach Beitragszonen resp. Toleranzstufen gemäss TVAV Art. 3",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_BE",
+    "Titel": "Stand der amtlichen Vermessung [vereinfacht]",
+    "Beschreibung": "Stand der Datenlieferungen der amtlichen Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_BE",
+    "Titel": "Stand der amtlichen Vermessung",
+    "Beschreibung": "Stand der Datenlieferungen der amtlichen Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_GR",
+    "Titel": "Kanton Graubünden, Amtliche Vermessung - Stand",
+    "Beschreibung": "WMS_AmtlicheVermessung_Stand",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GR",
+    "Titel": "Kanton Graubünden, Amtliche Vermessung",
+    "Beschreibung": "WMS_Amtliche_Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_TG",
+    "Titel": "Amtliche Vermessung",
+    "Beschreibung": "WMS/WFS Dienst des Kantons Thurgau",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_BS",
+    "Titel": "Amtliche Vermessung Kilometereinteilung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_BL",
+    "Titel": "EGIDen aus der Amtlichen Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "OpenData-AV",
+    "Beschreibung": "Die amtliche Vermessung (AV) beschreibt die Lage, die Form und den Inhalt eines Grundstückes. Die digitalen AV-Daten sind in mehreren thematischen Informationsebenen gegliedert, die frei miteinander kombiniert werden können. OpenData AV basiert auf dem Darstellungsdienst der amtlichen Vermessung welcher mit den Daten des AV-Geoportals des Bundes kreiert wird.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_ZH",
+    "Titel": "Amtliche Vermessung schwarz/weiss",
+    "Beschreibung": "Geodienst des GIS-ZH",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_ZH",
+    "Titel": "Amtliche Vermessung in Farbe",
+    "Beschreibung": "Geodienst des GIS-ZH",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_ZH",
+    "Titel": "Kanton Zuerich, Amtliche Vermessung",
+    "Beschreibung": "Geodienst des GIS-ZH",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_BE",
+    "Titel": "Gebäudehöhe",
+    "Beschreibung": "Diese Ebene enthält alle Gebäude im Kanton Bern gemäss amtlicher Vermessung. Die Informationen zur Gebäudehöhe stammen aus der Analyse von LiDAR-Daten, welche durch den Kanton Bern zwischen 2011 und 2014 akquiriert wurden. Von den 426-723 AV-Gebäuden sind für 383-423 (90%) eine Höheninformation verfügbar. Bei den 10% ohne Angaben handelt es sich um Gebäude welche nach 2014 erstellt wurden oder es sind keine Höhenangaben aus den LiDAR-Daten ableitbar. Das kann aufgrund von Datenlücken, falsch klassierten Punkten oder durch die Überlagerung mit Vegetation (Gebäude im Wald, am Waldrand) der Fall sein.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_GR",
+    "Titel": "Stand der amtlichen Vermessung",
+    "Beschreibung": "Stand_der_amtlichen_Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH055 Bodenbedeckung Flächen projektiert",
+    "Beschreibung": "Projektierte Bodenbedeckung aus der Amtlichen Vermessung.",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH058 Nomenklatur FlurnamenPos",
+    "Beschreibung": "Flur-, Orts- und Geländenamen (= geografische Namen der amtlichen Vermessung) von geografischen Gebieten, Landschaftsteilen, Flurstücken, topografischen Objekten usw.",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH059 Liegenschaften Flächen (projektiert)",
+    "Beschreibung": "Projektierte Liegenschaften aus der Amtlichen Vermessung",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH059 Liegenschaften Grenzpunkte",
+    "Beschreibung": "Liegenschaftsgrenzpunkte aus der Amtlichen Vermessung",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH059 Liegenschaften Selbstrechte",
+    "Beschreibung": "Selbständige Rechte aus der Amtlichen Vermessung",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH059 Liegenschaften Selbstrechte (projektiert)",
+    "Beschreibung": "Projektierte Selbständige Rechte aus der Amtlichen Vermessung",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH060 Gebäudeadressen PLZ",
+    "Beschreibung": "Postleitzahl aus TOPIC «PLZOrtschaft» der amtlichen Vermessung.",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH060 Gebäudeadressen Strassenstücke",
+    "Beschreibung": "Strassenstücke der amtlichen Vermssung, zusammenfasst nach Strassennamen und BFSNr",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH060 Gebäudeadressen Strassenstücke benannte Gebiete",
+    "Beschreibung": "Benannte Gebiete der amtlichen Vermessung",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH062 Hoheitsgrenzen Hoheitsgrenzpunkte",
+    "Beschreibung": "Hoheitsgrenzpunkte aus der Amtlichen Vermessung",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Stand der amtlichen Vermessung",
+    "Beschreibung": "Dieser Datensatz gibt einen aktuellen und kompletten Überblick über das Fortschreiten der amtlichen Vermessung über die ganze Schweiz gemäss den verschiedenen Qualtitätsstandards: analog, digital LV03, digital LV95 oder nicht vermessen.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_BS",
+    "Titel": "Amtliche Vermessung Kilometereinteilung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Forstbetriebe",
+    "Beschreibung": "Besitzverhältnisse des Waldes (Staat, Gemeinde, privat etc.), Basis bilden die Waldausscheidung, die Parzellengrenzen der amtlichen Vermessung und die Forstorganisation.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Betriebsteile Staatswald",
+    "Beschreibung": "Besitzverhältnisse des Waldes (Staat, Gemeinde, privat etc.), Basis bilden die Waldausscheidung, die Parzellengrenzen der amtlichen Vermessung und die Forstorganisation.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Forstreviere",
+    "Beschreibung": "Besitzverhältnisse des Waldes (Staat, Gemeinde, privat etc.), Basis bilden die Waldausscheidung, die Parzellengrenzen der amtlichen Vermessung und die Forstorganisation.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Waldeigentum",
+    "Beschreibung": "Besitzverhältnisse des Waldes (Staat, Gemeinde, privat etc.), Basis bilden die Waldausscheidung, die Parzellengrenzen der amtlichen Vermessung und die Forstorganisation.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: proj. Gebäude",
+    "Beschreibung": "Der Datensatz enthält die projektierten Gebäude. Diese sind Bestandteil der Informationsebene -Bodenbedeckung- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: proj. Assekuranznummern",
+    "Beschreibung": "Der Datensatz enthält die projektierten Gebäude- bzw. Assekuranznummern. Diese sind Bestandteil der Informationsebene -Bodenbedeckung- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Strassennamen",
+    "Beschreibung": "Der Datensatz enthält die Strassen- und Platznamen. Diese sind Bestandteil der Informationsebene -Gebäudeadressen- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Polizeinummern",
+    "Beschreibung": "Der Datensatz enthält die Gebäudeadressen bestehend aus Haus- bzw. Polizeinummern sowie Strassen- und Platznamen. Diese sind Bestandteil der Informationsebene -Gebäudeadressen- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Parzellennummern",
+    "Beschreibung": "Der Datensatz enthält die Grundstücks- bzw. Parzellennummern. Diese sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: proj. Parzellennummern",
+    "Beschreibung": "Der Datensatz enthält die projektierten Grundstücks- bzw. Parzellennummern. Diese sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Objektnamen (BB)",
+    "Beschreibung": "Der Datensatz enthält die Objektnamen (z.B. Gebäudebezeichnungen, Gewässernamen, etc.) der Informationsebene -Bodenbedeckung- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Assekuranznummern",
+    "Beschreibung": "Der Datensatz enthält die Gebäude- bzw. Assekuranznummern. Diese sind Bestandteil der Informationsebene -Bodenbedeckung- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Hoheitsgrenzen",
+    "Beschreibung": "Der Datensatz enthält die Gemeinde-, Bezirks-, Kantons-, und Landesgrenzen. Diese sind Bestandteil der Informationsebene -Hoheitsgrenzen- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Objektnummer (EO)",
+    "Beschreibung": "Der Datensatz enthält die Objektnummern (unterirdische Gebäude, Unterstand, etc.) der Informationsebene -Einzelobjekte- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Objektnamen (EO)",
+    "Beschreibung": "Der Datensatz enthält die Objektnamen (unterirdische Gebäude, Hochspannungsfreileitung, Bahngeleise, etc.) der Informationsebene -Einzelobjekte- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Waldareal",
+    "Beschreibung": "Der Datensatz enthält den statischen Wald bzw. das Waldareal gemäss §3 AWaG. Dieses ist Bestandteil der Informationsebene -Waldgrenzen- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Waldgrenze",
+    "Beschreibung": "Der Datensatz enthält die Abgrenzungen des statischen Wald. Diese sind Bestandteil der Informationsebene -Waldgrenzen- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Gemeindegrenzen",
+    "Beschreibung": "Der Datensatz enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Nachführungskreise",
+    "Beschreibung": "Der Datensatz enthält die Nachführungskreise und die Nachführungsgeometer, welche für die Nachführung der amtlichen Vermessung zuständig bzw. gewählt sind.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Grundstücke (Liegenschaften, SDR) der amtlichen Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Projektierte Grundstücke (Liegenschaften, SDR) der amtlichen Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Nachführungsgemeinden der amtlichen Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Dufourkarte Erstausgabe",
+    "Beschreibung": "Erstes amtliches Kartenwerk der Schweiz. Erstausgaben 1844 bis 1864, Nachführungen bis 1939. 25 Blätter. Kartenformat: 70 x 48 cm = 3360 km2. Geländedarstellung: Schattenschraffen, Reproduktionsart: Kupferstich, Druckverfahren: Tiefdruck (ab 1905 auch: Flachdruck) Anzahl der Farben: 1 (ab 1908: 2 und ab 1938: 3). Flächentreue unechte Kegelprojektion, Ellipsoid: Schmidt 1828. Ausgangshöhe: (Repère Pierre du Niton 376,2 m ü. M.).",
+    "ServiceTyp": "WMTS",
+    "Score": 75
+  },
+
+  {
+    "Kanton": "KT_BE",
+    "Titel": "Amtliche Vermessung in Bearbeitung",
+    "Beschreibung": "Die in Arbeit stehenden Lose bilden die Entitäten, welche in der Datenbank AMO verwaltet werden. Es handelt sich um laufende Operate der amtlichen Vermessung nach mehreren Qualitätsstandards, in der Regel AV93 oder PN, welche als Zusatzinformation gelten. Ihre Darstellung ist sekundär.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Ortsplan farbig mit Daten aus der amtlichen Vermessung",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/03f8acc8-6bdd-4377-8b99-bdee91312f24",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Ortsplan schwarz-weiss mit Daten aus der amtlichen Vermessung",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/ef254ec0-ac53-4494-8166-31fac05ab2d6",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Fixpunkte Kategorie 1 aus der amtlichen Vermessung",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Fixpunkte Kategorie 2 aus der amtlichen Vermessung",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Bodenbedeckung s/w",
+    "Beschreibung": "Der Datensatz enthält die Bodenbedeckungsflächen (Gebäude, Strassen, Gewässer, Wald, etc.). Diese sind Bestandteil der Informationsebene -Bodenbedeckung- des Objektkataloges der amtlichen Vermessung. Die Bodenbedeckungsflächen sind flächendeckend als Gebietsaufteilung definiert. Die Genauigkeitsanforderungen der Bodenbedeckungsflächen sowie die aufzunehmenden Minimalflächen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit von Einzelpunkten wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 29).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Einzelobjekte (Flächenelemente)",
+    "Beschreibung": "Der Datensatz enthält Einzelobjekte (Mauer, unterirdisches Gebäude, eingedoltes öffentliches Gewässer, wichtige Treppe, Tunnel, Unterführung, Galerie, Brücke, Passerelle, Bahnsteig, Brunnen, Reservoir, Pfeiler, Unterstand, Mast, Antenne, Aussichtsturm, Uferverbauung, Schwelle, massiver Sockel, Ruine, archäologisches Objekt, Landungssteg, einzelner Fels und Hochspannungsfreileitungen), welche als Flächenelemente dargestellt werden. Diese sind Bestandteil der Informationsebene -Einzelobjekte- des Objektkataloges der amtlichen Vermessung. Die Genauigkeitsanforderungen der Einzelobjekte richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Einzelpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 29).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Parzellen",
+    "Beschreibung": "Der Datensatz enthält die Grundstücke bzw. Parzellen. Diese sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung. Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die Äussere Zuverlässigkeit der Grenzpunkte, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: selbständige und dauernde Rechte",
+    "Beschreibung": "Der Datensatz enthält die selbständigen und dauernden Rechte (Baurecht). Diese sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung, soweit sie flächenmässig ausgeschieden werden können. Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die Äussere Zuverlässigkeit der Grenzpunkte, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: proj. Parzellen",
+    "Beschreibung": "Der Datensatz enthält die projektierten Grundstücke bzw. Parzellen. Diese sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung. Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die Äussere Zuverlässigkeit der Grenzpunkte, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: proj. selbständige und dauernde Rechte",
+    "Beschreibung": "Der Datensatz enthält die projektierten selbständigen und dauernden Rechte (Baurecht). Diese sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung, soweit sie flächenmässig ausgeschieden werden können. Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die Äussere Zuverlässigkeit der Grenzpunkte, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Rohrleitungen",
+    "Beschreibung": "Der Datensatz enthält die Hochdruckleitungen für Gas. Diese sind Bestandteil der Informationsebene -Rohrleitungen- des Objektkataloges der amtlichen Vermessung. Die Genauigkeitsanforderungen der Rohrleitungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Einzelpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Einzelobjekte (Linienelemente)",
+    "Beschreibung": "Der Datensatz enthält Einzelobjekte (Mauer, unterirdisches Gebäude, übriger Gebäudedetail, eingedoltes öffentliches Gewässer, wichtige Treppe, Tunnel, Unterführung, Galerie, Brücke, Passerelle, Reservoir, Denkmal, Mast, Antenne, Ruine, archäologisches Objekt, Rinnsal, schmaler Weg, Hochspannungsfreileitungen, Bahngeleise, Materialseilbahn, Skilift, Fähre, Grotte, Höhleneingang und Achse), welche als Linienelemente dargestellt werden. Diese sind Bestandteil der Informationsebene -Einzelobjekte- des Objektkataloges der amtlichen Vermessung. Die Genauigkeitsanforderungen der Einzelobjekte richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Einzelpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 29).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Einzelobjekte (Punktelemente)",
+    "Beschreibung": "Der Datensatz enthält Einzelobjekte (Denkmal, Mast, Antenne, einzelner Fels, wichtiger Einzelbaum, Bildstock, Kruzifix, Quelle und Bezugspunkt), welche als Punktelemente dargestellt werden. Diese sind Bestandteil der Informationsebene -Einzelobjekte- des Objektkataloges der amtlichen Vermessung. Die Genauigkeitsanforderungen der Einzelobjekte richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Einzelpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 29).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Grenzpunkte",
+    "Beschreibung": "Der Datensatz enthält die Grenzpunkte. Dies sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung. Die Grenzpunktkoordinaten basieren auf dem offiziellen Bezugsrahmen der Landesvermessung 1903 (LV03). Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die äussere Zuverlässigkeit eines jeden Grenzpunktes, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: proj. Grenzpunkte",
+    "Beschreibung": "Der Datensatz enthält die Grenzpunkte. Dies sind Bestandteil der Informationsebene -Liegenschaften- des Objektkataloges der amtlichen Vermessung. Die Grenzpunktkoordinaten basieren auf dem offiziellen Bezugsrahmen der Landesvermessung 1903 (LV03). Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die äussere Zuverlässigkeit eines jeden Grenzpunktes, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Hoheitsgrenzpunkte",
+    "Beschreibung": "Der Datensatz enthält die Hoheitsgrenzpunkte. Dies sind Bestandteil der Informationsebene -Hoheitsgrenzen- des Objektkataloges der amtlichen Vermessung. Die Grenzpunktkoordinaten basieren auf dem offiziellen Bezugsrahmen der Landesvermessung 1903 (LV03). Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lagegenauigkeit der Grenzpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 31). Die äussere Zuverlässigkeit eines jeden Grenzpunktes, wird durch geeignete Kenngrössen nachgewiesen (TVAV Art. 34).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Lagefixpunkte (LFP1-3)",
+    "Beschreibung": "Die Lagefixpunkte sind Bestandteil der Informationsebene -Fixpunkte- des Objektkataloges der amtlichen Vermessung. Der Datensatz enthält die Lagefixpunkte der Kategorie 1 (Punkte der Landesvermessung), der Kategorie 2 (Punkte desKantons) und der Kategorie 3 (Punkte der amtlichen Vermessung). Die Punkte stellen den Bezug zum Koordinatensystem her. Die Koordinaten basieren auf dem offiziellen Bezugsrahmen der Landesvermessung 1903 (LV03). Die Höhen bzw. Gebrauchshöhen stützen sich auf das offizielle Höhensystem des Landesnivellement von 1902 (LN02) ab. Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lage- und Höhengenauigkeit der Fixpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 28). Die äussere Zuverlässigkeit eines jeden Fixpunktes wird durch geeignete statistische Kenngrössen nachgewiesen (TVAV Art. 34).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Gemeinden (Einzelflächen)",
+    "Beschreibung": "Der Datensatz enthält die Aargauer Gemeinden, wobei die Gemeinden mit mehr als einer Teilfläche (Enklaven/Exklaven) einzeln erfasst sind. Der Datensatz basiert auf dem Datensatz der Gemeindegrenzen. Dieser enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Gemeindenamen klein",
+    "Beschreibung": "Der Datensatz enthält die Aargauer Gemeinden, wobei die Gemeinden mit mehr als einer Teilfläche (Enklaven/Exklaven) zusammengefasst sind. Der Datensatz basiert auf dem Datensatz der Gemeindegrenzen. Dieser enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Gemeindenamen gross",
+    "Beschreibung": "Der Datensatz enthält die Aargauer Gemeinden, wobei die Gemeinden mit mehr als einer Teilfläche (Enklaven/Exklaven) zusammengefasst sind. Der Datensatz basiert auf dem Datensatz der Gemeindegrenzen. Dieser enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Gemeinden (inkl. Enklaven/Exklaven)",
+    "Beschreibung": "Der Datensatz enthält die Aargauer Gemeinden, wobei die Gemeinden mit mehr als einer Teilfläche (Enklaven/Exklaven) zusammengefasst sind. Der Datensatz basiert auf dem Datensatz der Gemeindegrenzen. Dieser enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_ZH",
+    "Titel": "Vektor-Übersichtsplan - Fläche (48.3)",
+    "Beschreibung": "Der Vektor-Übersichtsplan setzt sich zusammen aus verschiedenen Geometrietypen (Punkt, Linie, Fläche). Zusätzlich wir ein Beschriftungslayer ergänzt, der auf Grundlage der Textpositionen der amtlichen Vermessung generiert wird.",
+    "ServiceTyp": "WFS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_ZH",
+    "Titel": "Vektor-Übersichtsplan - Beschriftung (48.4)",
+    "Beschreibung": "Der Vektor-Übersichtsplan setzt sich zusammen aus verschiedenen Geometrietypen (Punkt, Linie, Fläche). Zusätzlich wir ein Beschriftungslayer ergänzt, der auf Grundlage der Textpositionen der amtlichen Vermessung generiert wird.",
+    "ServiceTyp": "WFS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_ZH",
+    "Titel": "Vektor-Übersichtsplan - Linie (48.2)",
+    "Beschreibung": "Der Vektor-Übersichtsplan setzt sich zusammen aus verschiedenen Geometrietypen (Punkt, Linie, Fläche). Zusätzlich wir ein Beschriftungslayer ergänzt, der auf Grundlage der Textpositionen der amtlichen Vermessung generiert wird.",
+    "ServiceTyp": "WFS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_ZH",
+    "Titel": "Gewässer Öffentliche und private Fliess- und Stehgewässer inkl. Verfügungsangaben (45.15)",
+    "Beschreibung": "Dieser Datensatz umfasst den gesamten rechtskräftigen Bestand der öffentlichen oberirdischen Gewässer (Fliess- und Stehgewässer) inkl. Angaben zur dazugehörigen Gewässerfeststellungsverfügung.  Private Stehgewässer sind, sofern bekannt, ebenfalls enthalten.   Der Datensatz basiert auf dem Gewässerauszug der amtlichen Vermessung ARV_BASIS.AVZH\\ARV_BASIS.AVZH_GEWAESSER_F (GIS-ZH Nr. 536), welcher automatisiert auf die öffentlichen Gewässer reduziert (Gewässer mit hinterlegter Gewässernummer) und um die Verfügungsattribute ergänzt wird.  ",
+    "ServiceTyp": "WFS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Dufourkarte Erstausgabe",
+    "Beschreibung": "Erstes amtliches Kartenwerk der Schweiz. Erstausgaben 1844 bis 1864, Nachführungen bis 1939. 25 Blätter. Kartenformat: 70 x 48 cm = 3360 km2. Geländedarstellung: Schattenschraffen, Reproduktionsart: Kupferstich, Druckverfahren: Tiefdruck (ab 1905 auch: Flachdruck) Anzahl der Farben: 1 (ab 1908: 2 und ab 1938: 3). Flächentreue unechte Kegelprojektion, Ellipsoid: Schmidt 1828. Ausgangshöhe: (Repère Pierre du Niton 376,2 m ü. M.).",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Gemeindeinformationen",
+    "Beschreibung": "Statistische und administrative Angaben über die Gemeinde mit Link zum kantonalen Geodatenportal. Ausserdem finden Sie einen Link auf die Metadaten der amtlichen Vermessung. Der Auszug (INTERLIS-Datei) beinhaltet u.a. das Datum der letzten Nachführung jeder Informationsebene der amtlichen Vermessung, die Adresse der Ausgabestelle, das betroffene geografische Gebiet, Angaben zur Genauigkeit der Daten.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_BS",
+    "Titel": "Amtliche Vermessung Kilometereinteilung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Bodenbedeckungsflächen schwarz-weiss amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Einzelobjektflächen schwarz-weiss amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Grundbücher amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Höhenmodell amtliche Vermessung 2016",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Situation und Einzelobjekte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Höhenmodell amtliche Vermessung 2019",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Fixpunkte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Projektierte Bodenbedeckungsflächen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Bodenbedeckungsflächen schwarz-weiss amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Bodenbedeckungsflächen farbig amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Bodenbedeckung Namen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Einzelobjektflächen schwarz-weiss amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Einzelobjektflächen farbig amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Einzelobjektlinien amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Einzelobjektpunkte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Einzelobjektnamen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Nomenklatur Flurnamen Ortsnamen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Grenzpunkte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Selbstständige und dauernde Rechte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Grundstücksnummern amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Hoheitsgrenzpunkte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Hoheitsgrenzabschnitte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Lokalisationen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Gebäudeadressen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Gemeindegrenzen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Grundbücher amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Gebäudegrundrisse amtliche Vermessung Glarus",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Projektierte Liegenschaften amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Projektierte selbständige und dauernde Rechte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Projektierte Grundstücksnummern amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Liegenschaften amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Fixpunkte (amtliche Vermessung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Bodenbedeckung (amtliche Vermessung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Gebäudeeingänge (amtliche Vermesssung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Rohrleitungen (amtliche Vermessung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Benannte Gebiete (amtliche Vermessung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WFS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Gebäudeeingänge (amtliche Vermesssung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Flurnamen und Geländenamen (amtliche Vermessung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Grundstücke (amtliche Vermessung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Bodenbedeckung und Einzelobjekte (amtliche Vermessung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Waldeigentum",
+    "Beschreibung": "Besitzverhältnisse des Waldes (Staat, Gemeinde, privat etc.), Basis bilden die Waldausscheidung, die Parzellengrenzen der amtlichen Vermessung und die Forstorganisation.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Waldareal",
+    "Beschreibung": "Der Datensatz enthält den statischen Wald bzw. das Waldareal gemäss §3 AWaG. Dieses ist Bestandteil der Informationsebene -Waldgrenzen- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Waldgrenze",
+    "Beschreibung": "Der Datensatz enthält die Abgrenzungen des statischen Wald. Diese sind Bestandteil der Informationsebene -Waldgrenzen- des Objektkataloges der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Gemeinden (Einzelflächen)",
+    "Beschreibung": "Der Datensatz enthält die Aargauer Gemeinden, wobei die Gemeinden mit mehr als einer Teilfläche (Enklaven/Exklaven) einzeln erfasst sind. Der Datensatz basiert auf dem Datensatz der Gemeindegrenzen. Dieser enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Gemeinden (inkl. Enklaven/Exklaven)",
+    "Beschreibung": "Der Datensatz enthält die Aargauer Gemeinden, wobei die Gemeinden mit mehr als einer Teilfläche (Enklaven/Exklaven) zusammengefasst sind. Der Datensatz basiert auf dem Datensatz der Gemeindegrenzen. Dieser enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Gemeindegrenzen",
+    "Beschreibung": "Der Datensatz enthält die Gemeinde-, Bezirks-, Kantons- und Landesgrenzen. Die Gemeindegrenzen wurden in erster Linie ab den Übersichtsplänen 1:5000 (1991) digitalisiert und werden nun laufend, wo vorhanden, durch die numerischen Gemeindegrenzen der amtlichen Vermessung ersetzt.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Nachführungskreise und Nachführungsgeometer",
+    "Beschreibung": "Der Datensatz enthält die Nachführungskreise und die Nachführungsgeometer, welche für die Nachführung der amtlichen Vermessung zuständig bzw. gewählt sind.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_BE",
+    "Titel": "In Arbeit stehende Perimeter",
+    "Beschreibung": "Die in Arbeit stehenden Lose bilden die Entitäten, welche in der Datenbank AMO verwaltet werden. Es handelt sich um laufende Operate der amtlichen Vermessung nach mehreren Qualitätsstandards, in der Regel AV93 oder PN, welche als Zusatzinformation gelten. Ihre Darstellung ist sekundär.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+
+  {
+    "Kanton": "KT_BE",
+    "Titel": "Gebäudeadressen [Flächen]",
+    "Beschreibung": "Die Ebene Gebäudeadressen (Flächen) enthält die postalischen Gebäudeadressen der ober- und unterirdischen Gebäude. Die Flächen leiten sich aus der amtlichen Vermessung ab. Wenn AV-Daten fehlen, wird eine Fläche um die Grobkoordinate generiert. Dies ist bei allen -Gebäude GRUDA- der Fall.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_GR",
+    "Titel": "Liegenschaften",
+    "Beschreibung": "Liegenschaften der Amtlichen Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH051 Plan für das Grundbuch (farbe)",
+    "Beschreibung": "Plan für das Grundbuch aus der Amtlichen Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH051 Plan für das Grundbuch (schwarzweiss)",
+    "Beschreibung": "Plan für das Grundbuch aus der Amtlichen Vermessung Abbildung schwarz-weiss ohne projektierte Gebäude.",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH055 Bodenbedeckung Flächen projektiert",
+    "Beschreibung": "Projektierte Bodenbedeckung aus der Amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH058 Nomenklatur FlurnamenPos",
+    "Beschreibung": "Flur-, Orts- und Geländenamen (= geografische Namen der amtlichen Vermessung) von geografischen Gebieten, Landschaftsteilen, Flurstücken, topografischen Objekten usw.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH059 Liegenschaften Flächen (projektiert)",
+    "Beschreibung": "Projektierte Liegenschaften aus der Amtlichen Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH059 Liegenschaften Grenzpunkte",
+    "Beschreibung": "Liegenschaftsgrenzpunkte aus der Amtlichen Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH059 Liegenschaften Selbstrechte",
+    "Beschreibung": "Selbständige Rechte aus der Amtlichen Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH059 Liegenschaften Selbstrechte (projektiert)",
+    "Beschreibung": "Projektierte Selbständige Rechte aus der Amtlichen Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH060 Gebäudeadressen Strassenstücke benannte Gebiete",
+    "Beschreibung": "Benannte Gebiete der amtlichen Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH060 Gebäudeadressen Strassenstücke",
+    "Beschreibung": "Strassenstücke der amtlichen Vermssung, zusammenfasst nach Strassennamen und BFSNr",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH062 Hoheitsgrenzen Hoheitsgrenzpunkte",
+    "Beschreibung": "Hoheitsgrenzpunkte aus der Amtlichen Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH054 Fixpunkte",
+    "Beschreibung": "Die Fixpunkte bilden die Grundlage aller Daten mit Raumbezug. Darunter fallen beispielsweise die Daten der amtlichen Vermessung, die Landeskartenwerke, Leitungskataster, Daten in geographischen Informationssystemen, Zonenpäne etc. Es werden generell zwei Punktarten unterschieden: die Lagefixpunkte (LFP) und die Höhenfixpunkte (HFP).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH060 Gebäudeadressen PLZ",
+    "Beschreibung": "Postleitzahl aus TOPIC «PLZOrtschaft» der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "Biodiversitätsförderflächen im Sömmerungsgebiet",
+    "Beschreibung": "Die Biodiversitätsförderflächen (BFF) im Sömmerungsgebiet beinhalten die -Artenreichen Grün- und Streueflächen im Sömmerungsgebiet-, die Teil des Geobasisdatensatzes Biodiversitätsförderflächen Qualitätsstufe II (ID 153.3) sind. In den Jahren 2013-2016 wurde der Qualitätsanteil sowie der Abzug der unproduktiven Flächenanteile für die einzelnen Teilflächen einer Alp im Feld beurteilt. Die Kontrolle der beurteilten Flächen im Feld erfolgt alle acht Jahre. Laufende Nachführungen der Amtlichen Vermessung (z.B. neue Strassen, Gebäude, Bachläufe usw.) werden jedoch jährlich im November aktualisiert.",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "CH054 Fixpunkte",
+    "Beschreibung": "Die Fixpunkte bilden die Grundlage aller Daten mit Raumbezug. Darunter fallen beispielsweise die Daten der amtlichen Vermessung, die Landeskartenwerke, Leitungskataster, Daten in geographischen Informationssystemen, Zonenpäne etc. Es werden generell zwei Punktarten unterschieden: die Lagefixpunkte (LFP) und die Höhenfixpunkte (HFP).",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_ZH",
+    "Titel": "Gewässer Fliessgewässerausprägung (45.4)",
+    "Beschreibung": "Information, ob Fliessgewässerabschnitte offen oder eingedolt sind sowie ob diese über ein eigenes AWEL-Gewässergrundstück verfügen oder nicht (Servitutsgewässer).  Beide Ausprägungen werden jeweils wöchentlich übers Wochenende automatisch auf Grundlage der amtlichen Vermessung (GIS-ZH Nr. 401, 402) und des Immobilienregisters (GIS-ZH Nr. 3) aktualisiert. ",
+    "ServiceTyp": "WFS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_ZH",
+    "Titel": "Vektor-Übersichtsplan - Punkt (48.1)",
+    "Beschreibung": "Der Vektor-Übersichtsplan setzt sich zusammen aus den Geometrietypen Punkt, Linie und Fläche. Zusätzlich wir ein Beschriftungslayer ergänzt, der auf Grundlage der Textpositionen der amtlichen Vermessung generiert wird.  Der Punktdatensatz enthält die unregelmässige Signaturierung des Waldes und der bestockten Flächen sowie die Höhenkoten. ",
+    "ServiceTyp": "WFS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Fixpunkte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Projektierte Bodenbedeckungsflächen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Bodenbedeckungsflächen farbig amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Bodenbedeckung Namen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Einzelobjektflächen farbig amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Einzelobjektlinien amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Einzelobjektpunkte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Einzelobjektnamen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Nomenklatur Flurnamen Ortsnamen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Grenzpunkte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Selbstständige und dauernde Rechte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Grundstücksnummern amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Hoheitsgrenzpunkte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Hoheitsgrenzabschnitte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Lokalisationen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Gebäudeadressen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Gemeindegrenzen amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Gebäudegrundrisse amtliche Vermessung Glarus",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Projektierte Liegenschaften amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Projektierte selbständige und dauernde Rechte amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Projektierte Grundstücksnummern amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_GL",
+    "Titel": "Liegenschaften amtliche Vermessung",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Einzelobjekt farbig",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Einzelobjekt grau",
+    "Beschreibung": "ch.sz.a018.amtliche_vermessung.einzelobjekt.grau",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Hausnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadresse: Lokalisationsnamen",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Gebäudename",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Grundstück",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Liegenschaft",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Selbstrecht",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: projektierte Liegenschaft",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Selbstrecht",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: projektiertes Selbstrecht",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Betreibungsämter",
+    "Beschreibung": "Jede Einwohnergemeinde bildet einen Betreibungskreis (§ 1 Abs. 1 EG SchKG). Zwei oder mehr Einwohnergemeinden können sich mit Genehmigung der Schuldbetreibungs- und Konkurskommission des Obergerichts zu einem Betreibungskreis zusammenschliessen (§ 1 Abs. 2 EG SchKG). Eine Gemeinde gehört immer ganz zu genau einem Betreibungskreis. Die Geometrie des Geobasisdatensatzes basiert auf dem Geobasisdatensatz 62-CH «Hoheitsgrenzen (amtliche Vermessung)».",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Konkurskreise",
+    "Beschreibung": "Der Kanton bildet einen Konkurskreis (§ 2 Abs. 1 EG SchKG). Der Konkurskreis ist verwaltungstechnisch unterteilt in zuständige Amtsstellen, welche eine oder mehrere politische Gemeinden umfassen. Die Geometrie des Geobasisdatensatzes basiert auf dem Geobasisdatensatz 62-CH «Hoheitsgrenzen (amtliche Vermessung)».",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Zivilstandskreise",
+    "Beschreibung": "Beim Datensatz handelt es sich um dezentralisierte kommunale Organisationseinheiten zur Erledigung von Aufgaben im Bereich des Zivilstandswesens. Die Geometrie des Geobasisdatensatzes basiert auf dem Geobasisdatensatz 62-CH «Hoheitsgrenzen (amtliche Vermessung)».",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_BE",
+    "Titel": "Kulturland",
+    "Beschreibung": "Die Ebene Kulturland umfasst das Kulturland gemäss Art. 11a Bauverordnung. Die Abgrenzung des Kulturlandes ist weder behörden- noch grundeigentümerverbindlich, sondern dient als reine Informationsgrundlage. Die Darstellung des Kulturlandes basiert auf Daten des Agrarinformationssystems GELAN (Gesamtlösung EDV Landwirtschaft und Natur) und der in der Amtlichen Vermessung (AV) erfassten Bodennutzung. Das ausgewiesene Kulturland entspricht einem Zeitstand, der gegenüber dem Publikationszeitpunkt ein bis zwei Jahre oder länger zurückliegen kann. Die Nachführung erfolgt jährlich.  Wenn im Rahmen eines Plan- oder Bewilligungsverfahrens konkrete Hinweise dafür bestehen, dass eine in der Karte als Kulturland ausgewiesene Fläche nicht (mehr) Kulturland sei, wird empfohlen, bei der Fachstelle Boden des LANAT, Abt. Strukturverbesserungen und Produktion (bodenschutz@be.ch), eine Fachbeurteilung einzuholen.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_BE",
+    "Titel": "Verkehrslagenoten",
+    "Beschreibung": "Die Daten enthalten die durch die kantonale Schätzungskommission festgesetzten Verkehrslagenoten je Gemeinde, respektive je Gemeindekreises (Kanton Bern). Diese Noten sind ein Bestandteil der amtlichen Bewertung von Grundstücken und sind ab dem Steuerjahr 2020 gültig. Die Benotung verläuft von 1 (schlechteste Note) bis 9 (beste Note).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Fixpunkte (amtliche Vermessung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Hoheitsgrenzen (amtliche Vermessung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Gebäudeadressen (amtliche Vermessung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_SO",
+    "Titel": "Rohrleitungen (amtliche Vermessung)",
+    "Beschreibung": "nan",
+    "ServiceTyp": "WMS",
+    "Score": 0
+  },
+  {
+    "Kanton": "KT_UR",
+    "Titel": "Biodiversitätsförderflächen im Sömmerungsgebiet",
+    "Beschreibung": "Die Biodiversitätsförderflächen (BFF) im Sömmerungsgebiet beinhalten die -Artenreichen Grün- und Streueflächen im Sömmerungsgebiet-, die Teil des Geobasisdatensatzes Biodiversitätsförderflächen Qualitätsstufe II (ID 153.3) sind. In den Jahren 2013-2016 wurde der Qualitätsanteil sowie der Abzug der unproduktiven Flächenanteile für die einzelnen Teilflächen einer Alp im Feld beurteilt. Die Kontrolle der beurteilten Flächen im Feld erfolgt alle acht Jahre. Laufende Nachführungen der Amtlichen Vermessung (z.B. neue Strassen, Gebäude, Bachläufe usw.) werden jedoch jährlich im November aktualisiert.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_ZH",
+    "Titel": "Gewässer Fliessgewässerrouten (45.2)",
+    "Beschreibung": "Geroutete (metrierte) Achsen der öffentlichen Fliessgewässer. Sie bilden ein topologisch geschlossenes Netzwerk (seltene Ausnahmen: Versickerungsstellen und Einleitungen in die Mischwasserkanalisation) und dienen den dazugehörigen Fachdaten (Eventtabellen) als Basisgeometrien (z.B. Gewässerbezeichnung, Fliessgewässerökomorphologie).  Die Lage der Fliessgewässerlinien wird als Mittelachsen auf Grundlage der amtlichen Vermessung nachgeführt (siehe auch Datengrundlage). Beginn und Ende der öffentlichen Fliessgewässer im GIS entsprechen den rechtskräftigen AWEL-Gewässerplänen und -verzeichnissen. Wasserrechtskanäle werden in einem separaten Datensatz geführt (GIS-ZH Nr. 51.2).  HINWEIS:  Aufgrund eines Softwarefehlers wird derzeit bei der Datenabgabe als ESRI Geodatabase der M-Wert für die Metrierung der gerouteten Gewässerachsen (WB_FLIESSGEWAESSER_L_M) leider nicht mitgegeben. Bei den anderen Formaten (Shapefile etc.) hingegen funktioniert es. (kar, 23.9.2019)",
+    "ServiceTyp": "WFS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Bodenbedeckung farbig",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Bodenbedeckung grau",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Objektname",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: projektierter Objektname",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: projektierte Bodenbedeckung farbig",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Gebäudenummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Gebäude",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: projektierte Gebäudenummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: projektiertes Gebäude",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Objektname",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Objektnummer Position",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Lagefixpunkt Kategorie 3",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Höhenfixpunkt Kategorie 1",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Höhenfixpunkt Kategorie 2",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Höhenfixpunkt Kategorie 3",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Gebäudeeingang",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Benanntes Gebiet",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Grenzpunkt",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7f59662-ba37-4f93-9a5d-b1e5e79ad5fe",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Nomenklatur: Flurname",
+    "Beschreibung": "Flurname Bezeichnung, Link zu den Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/944c4fe1-e9eb-4efa-b184-d26494e8da5e",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Nomenklatur: Ortsnamen",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/944c4fe1-e9eb-4efa-b184-d26494e8da5e",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Nomenklatur: Ortsnamen Position",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/944c4fe1-e9eb-4efa-b184-d26494e8da5e",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Nomenklatur: Geländenamen",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 2",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 3",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 4",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 5",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "AV: Höhenfixpunkte (HFP1-3)",
+    "Beschreibung": "Die Höhenfixpunkte sind Bestandteil der Informationsebene -Fixpunkte- des Objektkataloges der amtlichen Vermessung. Der Datensatz enthält die Höhenfixpunkte der Kategorie 1 (Punkte des Landesnivellement), der Kategorie 2 (Punkte des kantonalen Nivellement) und der Kategorie 3 (Punkte von kommunalen Nivellementen). Die Höhen bzw. Gebrauchshöhen stützen sich auf das offizielle Höhensystem des Landesnivellement von 1902 (LN02) ab. Die Koordinaten basieren auf dem offiziellen Bezugsrahmen der Landesvermessung 1903 (LV03). Die Genauigkeits- und Zuverlässigkeitsanforderungen richten sich nach den Toleranzstufen (TVAV Art. 3). Die Lage- und Höhengenauigkeit der Fixpunkte wird als Standardabweichung (mittlere Fehler) definiert (TVAV Art. 28). Die äussere Zuverlässigkeit eines jeden Fixpunktes wird durch geeignete statistische Kenngrössen nachgewiesen (TVAV Art. 34).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_BE",
+    "Titel": "Bewirtschaftungseinheiten",
+    "Beschreibung": "Die Ebene «Bewirtschaftungseinheit» zeigt, welche Flächen von welchem Betrieb bewirtschaftet werden. Eine Bewirtschaftungseinheit wird in der Regel aus den Parzellen der amtlichen Vermessung generiert wobei aneinandergrenzende Parzellen, welche vom gleichen Bewirtschafter bewirtschaftet werden, zu einer Bewirtschaftungseinheit zusammengefasst werden. Die Bewirtschaftungseinheiten sind nutzungsunabhängig und können über Gemeinde-, undKantonsgrenzen hinausragen. Die Summe aller Bewirtschaftungseinheiten eines Betriebes ergibt die Betriebsfläche. Die Bewirtschaftungseinheit bildet die Grundlage für die Erfassung der räumlich geführten Kulturen der «Nutzungsflächen». Einem Betrieb bzw. einer Produktionsstätte können die dazugehörenden Bewirtschaftungseinheiten über das Attribut BEWEID zugeordnet werden.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_BE",
+    "Titel": "Bewirtschaftungseinheiten [provisorisch]",
+    "Beschreibung": "Die Ebene «Bewirtschaftungseinheit (provisorisch)» zeigt, welche Flächen von welchem Betrieb bewirtschaftet werden. Eine Bewirtschaftungseinheit wird in der Regel aus den Parzellen der amtlichen Vermessung generiert wobei aneinandergrenzende Parzellen, welche vom gleichen Bewirtschafter bewirtschaftet werden, zu einer Bewirtschaftungseinheit zusammengefasst werden. Die Bewirtschaftungseinheiten sind nutzungsunabhängig und können über Gemeinde-, undKantonsgrenzen hinausragen. Die Summe aller Bewirtschaftungseinheiten eines Betriebes ergibt die Betriebsfläche. Die Bewirtschaftungseinheit bildet die Grundlage für die Erfassung der räumlich geführten Kulturen der «Nutzungsflächen (provisorisch)». Einem Betrieb bzw. einer Produktionsstätte können die dazugehörenden Bewirtschaftungseinheiten über das Attribut BEWEID zugeordnet werden.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_ZG",
+    "Titel": "Basisplan",
+    "Beschreibung": "Der Basisplan der amtlichen Vermessung -BP-AV- ist der Nachfolger des Übersichtsplans 1:5-000. Er deckt die Massstäbe 1:2-500 1:5-000 und 1:10-000 ab.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_ZG",
+    "Titel": "Kantonsgrenze",
+    "Beschreibung": "Kantonsgrenze aus der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "KT_ZG",
+    "Titel": "Kantonsgrenze Maske",
+    "Beschreibung": "Maske derKantonsgrenze zur Abdeckung. Aus der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 25
+  },
+  {
+    "Kanton": "FL_LI",
+    "Titel": "Basisplan farbig 1:10000",
+    "Beschreibung": "Basisplan der Amtlichen Vermessung 1:10000",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "FL_LI",
+    "Titel": "Basisplan schwarz/weiss 1:10000",
+    "Beschreibung": "Basisplan der Amtlichen Vermessung 1:10000",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "FL_LI",
+    "Titel": "Basisplan farbig 1:5000",
+    "Beschreibung": "Basisplan der Amtlichen Vermessung 1:5000",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "FL_LI",
+    "Titel": "Basisplan schwarz/weiss 1:5000",
+    "Beschreibung": "Basisplan der Amtlichen Vermessung 1:5000",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "FL_LI",
+    "Titel": "Postleitzahlen",
+    "Beschreibung": "Postleitzahlen der Amtlichen Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Amtliche Vermessung farbig Gde",
+    "Beschreibung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in schwarz, bzw. farbig deren aktuellen, rechtsgültigen Stand und den kommunalen Übersichtsplan sowie die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in farbiger Darstellung an.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Amtliche Vermessung Gde",
+    "Beschreibung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in schwarz/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Amtliche Vermessung Gde Kt AR",
+    "Beschreibung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in schwarz/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Amtliche Vermessung grau Gde",
+    "Beschreibung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in grau/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Amtliche Vermessung grau Kt AR",
+    "Beschreibung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in grau/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Amtliche Vermessung, Hintergrund Gde",
+    "Beschreibung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in schwarz/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AR",
+    "Titel": "Amtliche Vermessung Gde Kt AR",
+    "Beschreibung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in schwarz/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_AR",
+    "Titel": "Amtliche Vermessung grau Kt AR",
+    "Beschreibung": "Diese Karte zeigt in roter Farbe den pendenten, bzw. projektierten Stand der amtlichen Vermessung und in grau/weisser Darstellung deren aktuellen, rechtsgültigen Stand, mit Graustufenfüllung der Gebäude, sowie den kommunalen Übersichtsplan und die Landeskarten von swisstopo 1:50-000 bis 1:1-000-000 in Graustufen an.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Betreibungskreise",
+    "Beschreibung": "Jede Einwohnergemeinde bildet einen Betreibungskreis (§ 1 Abs. 1 EG SchKG). Zwei oder mehr Einwohnergemeinden können sich mit Genehmigung der Schuldbetreibungs- und Konkurskommission des Obergerichts zu einem Betreibungskreis zusammenschliessen (§ 1 Abs. 2 EG SchKG). Eine Gemeinde gehört immer ganz zu genau einem Betreibungskreis. Die Geometrie des Geobasisdatensatzes basiert auf dem Geobasisdatensatz 62-CH «Hoheitsgrenzen (amtliche Vermessung)».",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Konkurskreise",
+    "Beschreibung": "Der Kanton bildet einen Konkurskreis (§ 2 Abs. 1 EG SchKG). Der Konkurskreis ist verwaltungstechnisch unterteilt in zuständige Amtsstellen, welche eine oder mehrere politische Gemeinden umfassen. Die Geometrie des Geobasisdatensatzes basiert auf dem Geobasisdatensatz 62-CH «Hoheitsgrenzen (amtliche Vermessung)».",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AG",
+    "Titel": "Zivilstandskreise",
+    "Beschreibung": "Beim Datensatz handelt es sich um dezentralisierte kommunale Organisationseinheiten zur Erledigung von Aufgaben im Bereich des Zivilstandswesens. Die Geometrie des Geobasisdatensatzes basiert auf dem Geobasisdatensatz 62-CH «Hoheitsgrenzen (amtliche Vermessung)».",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+
+  {
+    "Kanton": "Bund",
+    "Titel": "LV95 Transformationsgenauigkeit",
+    "Beschreibung": "Aus der kombinierten Genauigkeitskarte kann abgeleitet werden, wie genau in LV03 (mit realtime-Fineltra) oder LV95 in Bezug zu den Referenzdaten der Landes- und amtlichen Vermessung (Bezugsrahmen) mit GNSS gemessen werden kann, z.B. mit dem Positionierungsdienst swipos. So kann beispielsweise in den spannungsarmen Gebieten auf eine sogenannte lokale Einpassung verzichtet werden. Weitere Informationen zur Anwendung der kombinierten Genauigkeitskarte entnehmen Sie bitte dem -Link zu Detailbeschreibung weiter unten.",
+    "ServiceTyp": "WMTS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Spannungsarme Gebiete",
+    "Beschreibung": "Bei Feldarbeiten in der amtlichen Vermessung muss jeweils eine lokale Einpassung durchgeführt werden oder zumindest der Nachweis erbracht werden, dass auf eine solche verzichtet werden kann. In spannungsarmen Gebieten erübrigt sich eine lokale Einpassung, weil die geometrische Genauigkeit erhöhten Qualitätskriterien entspricht. In der praktischen Anwendung erleichtert die Kenntnis solcher spannungsarmen Gebiete die Arbeiten mit satellitengestützten Messmethoden, insbesondere mit Positionierungsdiensten wie zum Beispiel swipos.",
+    "ServiceTyp": "WMTS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Gebäude farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: projektiertes Gebäude farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Flächenelement farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Flächenelement Brücke farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Linienelement farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Punktelement farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Strassenname (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermesssung/Gebäudeadresse: Hausnummer (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Nomenklatur: Flurname (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Platzname (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Gebäudefläche schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Flächenelement schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Gebäude schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: projektiertes Gebäude schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Flächenelement schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Flächenelement Brücke schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Linienelement scharz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Punktelement schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Hausnummer (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Nomenklatur: Flurname (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Platzname (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Strassenname (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Flächenelement farbig",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Linienelement farbig",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Punktelement farbig",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Flächenelement grau",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Linienelement grau",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Punktelement grau",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Lagefixpunkt Kategorie 1",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Lagefixpunkt Kategorie 1",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Lagefixpunkt Kategorie 2",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Lagefixpunkt Kategorie 2",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Lokalisation vom Typ Strasse",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Lokalisation vom Typ Platz",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Lokalisation vom Typ Gebiet",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Liegenschaft",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Liegenschaftsnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Liegenschaftsnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Liegenschaft, ÖREB",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Liegenschaftsnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Liegenschaftsnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Selbstrecht",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Selbstrechtnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Selbstrechtnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: proj, Liegenschaft",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: proj. Liegenschaftsnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Hilfslinie für proj. Liegenschaftsnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Selbstrecht",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Selbstrechtnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Selbstrechtnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: proj. Selbstrecht",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: proj. Selbstrechtnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Hilfslinie für proj. Selbstrecht",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Bodenbedeckung farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Gebäude farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: projektiertes Gebäude farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Flächenelement farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Flächenelement Brücke farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Linienelement farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Punktelement farbig (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Strassenname (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermesssung/Gebäudeadresse: Hausnummer (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Nomenklatur: Flurname (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Platzname (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Gebäudefläche schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Flächenelement schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Gebäude schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: projektiertes Gebäude schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Flächenelement schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Flächenelement Brücke schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Linienelement scharz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekte: Punktelement schwarz-weiss (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Hausnummer (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Nomenklatur: Flurname (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Platzname (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Strassenname (für Ortsplan)",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Bodenbedeckung farbig",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Bodenbedeckung grau",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Objektname",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: projektierter Objektname",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: projektierte Bodenbedeckung farbig",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Gebäudenummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: Gebäude",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: projektierte Gebäudenummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Bodenbedeckung: projektiertes Gebäude",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Flächenelement farbig",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Linienelement farbig",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Punktelement farbig",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Flächenelement grau",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Linienelement grau",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Punktelement grau",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Objektname",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Einzelobjekt: Objektnummer Position",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Lagefixpunkt Kategorie 1",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Lagefixpunkt Kategorie 1",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Lagefixpunkt Kategorie 2",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Lagefixpunkt Kategorie 2",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Lagefixpunkt Kategorie 3",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Höhenfixpunkt Kategorie 1",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Höhenfixpunkt Kategorie 2",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Höhenfixpunkt Kategorie 3",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Gebäudeeingang",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Hausnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Lokalisation vom Typ Strasse",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Lokalisation vom Typ Platz",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Lokalisation vom Typ Gebiet",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Benanntes Gebiet",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Gebäudeadressen: Gebäudename",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Grundstück",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Liegenschaft",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Liegenschaftsnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Liegenschaftsnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung: Liegenschaft, ÖREB",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Liegenschaftsnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Liegenschaftsnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Selbstrecht",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Selbstrechtnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Selbstrechtnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: proj, Liegenschaft",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: proj. Liegenschaftsnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Hilfslinie für proj. Liegenschaftsnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Selbstrecht",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Selbstrechtnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Hilfslinie für Selbstrechtnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: proj. Selbstrecht",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: proj. Selbstrechtnummer",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Hilfslinie für proj. Selbstrecht",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/91d3f4db-d7cd-4e8b-9e71-d16a29beb835",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Liegenschaften: Grenzpunkt",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/a7f59662-ba37-4f93-9a5d-b1e5e79ad5fe",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Nomenklatur: Flurname",
+    "Beschreibung": "Flurname Bezeichnung, Link zu den Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/944c4fe1-e9eb-4efa-b184-d26494e8da5e",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Nomenklatur: Ortsnamen",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/944c4fe1-e9eb-4efa-b184-d26494e8da5e",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Nomenklatur: Ortsnamen Position",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/944c4fe1-e9eb-4efa-b184-d26494e8da5e",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Nomenklatur: Geländenamen",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/b0840d78-9dcb-4881-98b0-704f5cb85214",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 2",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 3",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 4",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SZ",
+    "Titel": "Amtliche Vermessung/Toleranzstufeneinteilung: Toleranzstufe 5",
+    "Beschreibung": "Link zu Metadaten: https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/96581502-9f78-4b39-b23a-25445a7d5fd0",
+    "ServiceTyp": "WFS",
+    "Score": 50
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Zeitreise - Kartenwerke",
+    "Beschreibung": "Das Bundesamt für Landestopografie swisstopo hat seit seiner Gründung durch Guillaume-Henri Dufour im Jahre 1838 drei amtliche Landeskartenwerke produziert: die Topographische Karte der Schweiz 1:100’000 (Dufourkarte), den Topographischen Atlas der Schweiz 1:25’000 / 1:50’000 (Siegfriedkarte) und die Landeskarte der Schweiz in verschiedenen Massstäben. Die Gesamtheit dieser Bestände bildet ein Kulturgut von nationaler Bedeutung, das als «topographisches Landschaftsgedächtnis der Schweiz» bezeichnet werden kann. Mit der «Zeitreise» lässt sich der Landschaftswandel anhand dieser Kartenwerke auf interaktive Weise erfahren.",
+    "ServiceTyp": "WMTS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_ZG",
+    "Titel": "Kanton ZG, Grundbuchplan (WMS)",
+    "Beschreibung": "Der Grundbuchplan informiert über Grundstücke, Bodenbedeckung und weitere Ebenen der amtlichen Vermessung. Der Planinhalt ist teilweise generalisiert. Je nach Zoomstufe ändert sich der Detaillierungsgrad.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "CO₂-Emissionen Gebäude (SIA 380/1)",
+    "Beschreibung": "Der Schweizer Gebäudepark ist für rund einen Viertel der CO2-Emissionen verantwortlich. Reduktionen in diesem Bereich sind zentral für die Erreichung der Klimaziele. Mit der Karte «CO2-Emissionen Gebäude (SIA 380/1)» kann für jedes Wohngebäude abgeschätzt werden, wie viel CO2 ausgestossen wird. Diese CO2-Emissionen werden für Normbedingungen für den Heizwärme- und Warmwasserbedarf gerechnet. Für die Berechnung werden die öffentlich zugänglichen Input-Daten aus dem eidgenössischen Gebäude- und Wohnungsregister GWR des Bundesamtes für Statistik beigezogen. Diese Daten sind nicht überall aktuell und beinhalten keine ausreichenden Informationen zu Gebäudesanierungen. Mit einem interaktiven CO₂-Rechner kann simuliert werden, wie sich der CO2-Wert verändert, wenn energetische Sanierungen mitberücksichtigt werden oder ein Energieträgerwechsel vorgenommen wird. Die eingegebenen Daten werden nicht gespeichert. Dieses Tool können Sie bei jedem Gebäude unter «Objekt-Information» nutzen. Die Angaben sind als grobe Einschätzung zu verstehen und stellen keine amtlichen oder verbindlichen Angaben dar. Die CO2-Visualisierung mit dem CO2-Rechner schafft Transparenz und zeigt auf, dass es besonders wichtig ist, die GWR-Daten aktuell zu halten. Gebäudebesitzende können selber mithelfen, die klima- und energierelevanten Gebäudedaten im GWR aktuell zu halten. In einem Link bei «Objekt-Information» zu jedem Gebäude findet sich der Beschrieb, wie allfällige veraltete Angaben gemeldet werden können. Weitere Informationen finden Sie unter www.bafu.admin.ch/CO2-Rechner-Gebaeude.",
+    "ServiceTyp": "WMTS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_ZG",
+    "Titel": "Kanton ZG, Adressplan (WMS/WFS)",
+    "Beschreibung": "PLZ, Ortschaft, Hausnummern und Strassenachsen aus der amtlichen Vermessung",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Spannungsarme Gebiete",
+    "Beschreibung": "Bei Feldarbeiten in der amtlichen Vermessung muss jeweils eine lokale Einpassung durchgeführt werden oder zumindest der Nachweis erbracht werden, dass auf eine solche verzichtet werden kann. In spannungsarmen Gebieten erübrigt sich eine lokale Einpassung, weil die geometrische Genauigkeit erhöhten Qualitätskriterien entspricht. In der praktischen Anwendung erleichtert die Kenntnis solcher spannungsarmen Gebiete die Arbeiten mit satellitengestützten Messmethoden, insbesondere mit Positionierungsdiensten wie zum Beispiel swipos.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Höhenfixpunkte HFP2",
+    "Beschreibung": "Vermessungspunkte bilden die Grundlage aller Daten mit Raumbezug. Diese Fixpunkte (Lagefixpunkte (LFP) und die Höhenfixpunkte (HFP)) werden für alle vermessungstechnischen Arbeiten genutzt, die eine zuverlässige und präzise Bestimmung erfordern. Unter einem Höhenfixpunkt versteht man einen dauerhaft mit einem Bolzen gekennzeichneten Punkt mit bekannter Höhe. Die Höhenfixpunkte der Kategorien 2 (HFP2) dienen zur Verdichtung des Punktnetzes und bilden die Grundlage der amtlichen Vermessung. Die Kantone sind zuständig für die Fixpunkte der Kategorie 2. Die Daten basieren auf dem Modell Fixpunkt-Daten ServiceTyp 2.0 der KGK (Datenmodell KGKCGC_FPDS2_V1_1, Version 1.1).",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Lagefixpunkte LFP2",
+    "Beschreibung": "Vermessungspunkte bilden die Grundlage aller Daten mit Raumbezug. Diese Fixpunkte (Lagefixpunkte (LFP) und die Höhenfixpunkte (HFP)) werden für alle vermessungstechnischen Arbeiten genutzt, die eine zuverlässige und präzise Bestimmung erfordern. Unter einem Lagefixpunkt versteht man einen dauerhaft mit einem Stein oder einem Bolzen (zum Teil unter Schacht) versicherten Punkt mit bekannten Koordinaten und eventuell bekannter Höhe. Die Lagefixpunkte der Kategorien 2 (LFP2) dienen zur Verdichtung des Punktnetzes und bilden die Grundlage der amtlichen Vermessung. Die Kantone sind zuständig für die Fixpunkte der Kategorie 2. Die Daten basieren auf dem Modell Fixpunkt-Daten ServiceTyp 2.0 der KGK (Datenmodell KGKCGC_FPDS2_V1_1, Version 1.1).",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Biogasanlagen",
+    "Beschreibung": "In Biogasanlagen wird aus organischem Material mittels Vergärung Gas erzeugt. Das dabei entstehende Gasgemisch besteht zum überwiegenden Teil aus energiereichem Methan (CH4) und aus Kohlendioxid (CO2). Biogas kann zur Erzeugung von Strom und Wärme sowie als Treibstoff genutzt werden. Die Schweiz zählt mehr als 100 Biogasanlagen. Bei der inländischen Biogasproduktion werden ausschliesslich Abfälle und Speisereste aus Haushalten, der Nahrungsmittelindustrie und der Landwirtschaft verwertet. Biogas ist damit nicht nur ein erneuerbarer und CO2-neutraler, sondern auch ein nachhaltiger Energieträger. Mit Biogas kann direkt in einem Blockheizkraftwerk (BHKW) Strom und Wärme erzeugt werden. Es kann aber auch zu Biomethan aufbereitet und anschliessend ins Erdgasnetz eingespeist werden. Es steht dann wiederum für die Strom- und Wärmeproduktion oder als Treibstoff zur Verfügung. Die Geodaten über Biogasanlagen geben Auskunft über den derzeitigen Stand solcher Energieerzeugungsanlagen in der Schweiz. Derzeit beruhen die Daten nur auf der Liste der KEV-Bezüger. Das langfristige Ziel besteht darin, alle in der Schweiz in Betrieb stehenden Biogasanlagen erfassen zu können - ob sie nun Elektrizität oder Wärme vor Ort produzieren oder ob sie Biomethan ins Erdgasnetz einspeisen. Die Daten sind zur Information der breiten Öffentlichkeit bestimmt und stellen keine amtlichen oder verbindlichen Angaben dar.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_ZH",
+    "Titel": "Gewässer Öffentliche und private Stehgewässer (45.10)",
+    "Beschreibung": "Umfasst alle öffentlichen und ggf. privaten Stehgewässer (Seen und Weiher) im Hauptschluss öffentlicher Fliessgewässer sowie isolierte Stehgewässer ohne Zu-/ Abfluss über 500 m2. Wasserrechtsweiher werden in einem separaten Datensatz geführt (GIS-ZH Nr. 51.2). Die Feststellung der Hoheitsrechte (öffentlich vs privat) ist in den meisten Fällen noch pendent und wird laufend aktualisiert. Die Uferlinien der 10 grössten Seen entsprechen im Flächendatensatz mit Ausnahme des Zürichsees WB_SEEUFERLINIEN_L_M, die Umrisse der restlichen Stehgewässer basieren auf der amtlichen Vermessung. Die Zürichseefläche wurde zwischen 2011 und 2017 im Auftrag des AWEL durch die amtliche Vermessung rechtskräftig erhoben. Dabei lag die Bestimmung der Seefläche im Bereich von durch Haben, Bootshäusern etc. überdeckten Flächen besonders im Fokus. Für die Gewässerraumausscheidung wurden Bootshäuser, Haben und Buchten, die nicht dem generellen Trend der Uferlinie folgen, im Liniendatensatz entfernt bzw. generalisiert (siehe Datengrundlage/Dokumentation). ",
+    "ServiceTyp": "WFS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Geodienste",
+    "Titel": "geodienste.ch WMS AV: Standard",
+    "Beschreibung": "Die amtliche Vermessung – ein nationales Produkt – liefert geometrische Daten zum Grundeigentum und ist die Grundlage für viele weitere geografische Informationen und Anwendungen in Wirtschaft, Verwaltung und Privatleben. Die Daten basieren auf dem MGDM DM.01-AV-CH (ID 51.1 - 64.1). Der WMS «AV: Standard (schwarz/weiss)» basiert auf der «Empfehlung für die Realisierung des AV-WMS». Der Dienst bezweckt eine gesamtschweizerische Lösung für die Visualisierung der Daten der Amtlichen Vermessung als WMS und WFS. Die Darstellung der Daten ist für einen Massstab bis 1:25’000 optimiert.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "Geodienste",
+    "Titel": "geodienste.ch WMS AV: Situationsplan",
+    "Beschreibung": "Die amtliche Vermessung – ein nationales Produkt – liefert geometrische Daten zum Grundeigentum und ist die Grundlage für viele weitere geografische Informationen und Anwendungen in Wirtschaft, Verwaltung und Privatleben. Die Daten basieren auf dem MGDM DM.01-AV-CH (ID 51.1 - 64.1). Der WMS «AV: Situationsplan» basiert auf der Weisung «Darstellung des Planes für das Grundbuch». Die Darstellung ist konform mit den folgenden Standard-Darstellungsmassstäbe des Planes für das Grundbuch auf Papier: 1:200 1:500 1:1’000 und 1:2’000. Hinweis: Die Ausgabe von Plänen für das Grundbuch ist den Organen der amtlichen Vermessung vorbehalten.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "Geodienste",
+    "Titel": "geodienste.ch WMS AV: Standard (farbig)",
+    "Beschreibung": "Die amtliche Vermessung – ein nationales Produkt – liefert geometrische Daten zum Grundeigentum und ist die Grundlage für viele weitere geografische Informationen und Anwendungen in Wirtschaft, Verwaltung und Privatleben. Die Daten basieren auf dem MGDM DM.01-AV-CH (ID 51.1 - 64.1). Der WMS «AV: Standard (farbig)» basiert auf der «Empfehlung für die Realisierung des AV-WMS». Der Dienst bezweckt eine gesamtschweizerische Lösung für die Visualisierung der Daten der Amtlichen Vermessung als WMS und WFS. Die Darstellung der Daten ist für einen Massstab bis 1:25’000 optimiert.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Durchgangsleitungen aus AV Gde",
+    "Beschreibung": "Diese Karte stellt bedeutende Durchgangsleitungen dar, welche aus den Daten der amtlichen Vermessung stammen. Darin ersichtlich sind Durchgangsleitungen aus Gas, Öl und Elektrizität (wie Hochspannungsfreileitungen).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Gebäudeadressen, geocodiert Kt",
+    "Beschreibung": "Diese Karte umfasst Gebäudeadressen aus der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Landwirtschaftliche Zonengrenzen Kt",
+    "Beschreibung": "Karte mit den acht landwirtschaftlichen Produktionszonen und dem Sömmerungsgebiet, gemäss Definition des Bundesamtes für Landwirtschaft (BLW). Die landwirtschaftlichen Zonengrenzen wurden auf der amtlichen Vermessung digitalisiert.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Orthofoto mit AV weiss",
+    "Beschreibung": "Das Orthofoto zeigt die Landschaft in einer Luftaufnahme inkl. der amtlichen Vermessung in Weiss.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Schwarzplan Gde",
+    "Beschreibung": "Der Schwarzplan zeigt ausschliesslich die Gebäude der amtlichen Vermessung und visualisiert das Verhältnis zwischen bebauter Fläche und unbebauter Fläche.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Übersichtsplan 1:10000 (ÜP10) Kt",
+    "Beschreibung": "Ehemaliger kantonaler Übersichtsplan 1:10‘000 (ÜP10) des Kantons St.Gallen und angrenzender Gebiete. Die Karte zeigt einen Scan des in insgesamt 69 einzelnen Kartenblättern erstellten ÜP10. Die Nachführung ist bis Ende 2006 erfolgt, anschliessend Ablösung durch den aus der amtlichen Vermessung erzeugten Übersichtsplan 1:5‘000 (ÜP5).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Übersichtsplan Gde",
+    "Beschreibung": "Diese Karte zeigt den kommunalen Übersichtsplan (schwarz-weiss) sowie die Landeskarten von swisstopo 1:25-000 bis 1:1-000-000 (farbig) an. Der Übersichtsplan ist eine generalisierte Darstellung der Daten aus der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Übersichtsplan grau Gde",
+    "Beschreibung": "Diese Karte zeigt den kommunalen Übersichtsplan sowie die Landeskarten von swisstopo 1:25-000 bis 1:1-000-000 in grauer Darstellung an. Der Übersichtsplan ist eine generalisierte Darstellung der Daten aus der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AR",
+    "Titel": "Gebäudeadressen, geocodiert Kt",
+    "Beschreibung": "Diese Karte umfasst Gebäudeadressen aus der amtlichen Vermessung.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AR",
+    "Titel": "Landwirtschaftliche Zonengrenzen Kt",
+    "Beschreibung": "Karte mit den acht landwirtschaftlichen Produktionszonen und dem Sömmerungsgebiet, gemäss Definition des Bundesamtes für Landwirtschaft (BLW). Die landwirtschaftlichen Zonengrenzen wurden auf der amtlichen Vermessung digitalisiert.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AR",
+    "Titel": "Schwarzplan Gde",
+    "Beschreibung": "Der Schwarzplan zeigt ausschliesslich die Gebäude der amtlichen Vermessung und visualisiert das Verhältnis zwischen bebauter Fläche und unbebauter Fläche.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AR",
+    "Titel": "Übersichtsplan 1:10000 (ÜP10) Kt",
+    "Beschreibung": "Ehemaliger kantonaler Übersichtsplan 1:10‘000 (ÜP10) des Kantons St.Gallen und angrenzender Gebiete. Die Karte zeigt einen Scan des in insgesamt 69 einzelnen Kartenblättern erstellten ÜP10. Die Nachführung ist bis Ende 2006 erfolgt, anschliessend Ablösung durch den aus der amtlichen Vermessung erzeugten Übersichtsplan 1:5‘000 (ÜP5).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_SH",
+    "Titel": "Forst Wald",
+    "Beschreibung": "Hinweis auf Waldareal basierend auf der amtlichen Vermessung. Die Waldgrenzen werden im Rahmen von Projekten vomKantonsforstamt überprüft und vom Amt für Geoinformation nachgeführt, sind jedoch in der Regel nicht rechtsverbindlich.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Windenergieanlagen",
+    "Beschreibung": "Windenergieanlagen nutzen die kinetische Energie der anströmenden Luft zur Rotation der Flügel. Die auf diese Weise erzeugte mechanische Energie wird von einem Generator in elektrische Energie umgewandelt.Die erste Windenergieanlage der Schweiz wurde 1986 beim Soolhof (Langenbruck, BL) mit einer Leistung von 28 kW in Betrieb genommen. 2013 gibt es insgesamt 34 Windenergieanlagen, die rund 85 Gigawattstunden (GWh) Windstrom produzieren. Der grösste Windpark befindet sich auf dem Mont Crosin im Berner Jura bei St. Imier: Hier stehen 16 Windturbinen mit einer Gesamtleistung von 23,6 MW. Weitere Grossanlagen stehen u.a. im Rhonetal (VS), bei Entlebuch (LU) und auf dem Gütsch ob Andermatt (UR). In der Schweiz kann sich die Windenergie noch stark entwickeln. So sollen Windenergieanlagen bis zum Jahr 2020 rund 600 GWh und bis 2050 etwa 4‘000 GWh Strom pro Jahr produzieren. Geeignete Standorte befinden sich auf den Jurahöhen, aber auch in den Alpen und Voralpen und im westlichen Mittelland. Die Geofachdaten «Windenergieanlagen» dokumentieren den aktuellen Bestand der Windenergieanlagen der Schweiz. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+    "ServiceTyp": "WMTS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Kehrichtverbrennungsanlagen",
+    "Beschreibung": "Die Kehrichtverbrennung ist die Verbrennung der atmosphärisch brennbaren Anteile von Abfall zum Zwecke der Volumenreduzierung des Abfalls unter Nutzung der enthaltenen Energie.Der schweizerische KVA-Park umfasst im Jahr 2017 30 Anlagen mit Kapazitäten zwischen 30‘000 und 230‘000 Jahrestonnen. Die Gesamtmenge an brennbaren Abfällen aus der Schweiz und dem Ausland, die in KVA thermisch verwertet werden, beläuft sich auf ca. 4 Mio. Tonnen. Die bei der Verbrennung anfallende Wärme wird für die Produktion von Strom oder für den Betrieb von Fernwärmenetzen bzw. für Prozesswärme für Industrieanlagen eingesetzt. Im Jahr 2017 produzierten die 30 KVA eine bisherige Rekordmenge an Energie von gesamthaft 4-036 Gigawattstunden (GWh) Wärme und 2338 GWh Strom. Sie tragen damit rund 2.5 Prozent zur Deckung des schweizerischen Gesamtenergiebedarfs bzw. knapp 4 Prozent zur schweizerischen Stromproduktion bei. Die Geofachdaten KVA dokumentieren den aktuellen Stand verwerteter Abfallmengen und der nach aussen gelieferten Energiemengen. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+    "ServiceTyp": "WMTS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "PLZ und Ortschaften",
+    "Beschreibung": "Mit Artikel 24 der Verordnung über die geografischen Namen (GeoNV) wurde das Bundesamt für Landestopografie swisstopo beauftragt, das neue amtliche Ortschaftenverzeichnis mit Postleitzahl und Perimeter zu erstellen, zu verwalten und zu veröffentlichen. Dieser Datensatz wird zentral bei swisstopo geführt und entspricht mit Ausnahme des entfernten Identifikators `IDENT PLZ, Zusatzziffern` in der Tabelle `PLZ` dem TOPIC `PLZOrtschaft` der amtlichen Vermessung. Der Datensatz ist flächendeckend über die ganze Schweiz und kann kostenlos bezogen werden (Datensatz wird monatlich nachgeführt).",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Kehrichtverbrennungsanlagen",
+    "Beschreibung": "Die Kehrichtverbrennung ist die Verbrennung der atmosphärisch brennbaren Anteile von Abfall zum Zwecke der Volumenreduzierung des Abfalls unter Nutzung der enthaltenen Energie.Der schweizerische KVA-Park umfasst im Jahr 2017 30 Anlagen mit Kapazitäten zwischen 30`000 und 230`000 Jahrestonnen. Die Gesamtmenge an brennbaren Abfällen aus der Schweiz und dem Ausland, die in KVA thermisch verwertet werden, beläuft sich auf ca. 4 Mio. Tonnen. Die bei der Verbrennung anfallende Wärme wird für die Produktion von Strom oder für den Betrieb von Fernwärmenetzen bzw. für Prozesswärme für Industrieanlagen eingesetzt. Im Jahr 2017 produzierten die 30 KVA eine bisherige Rekordmenge an Energie von gesamthaft 4`036 Gigawattstunden (GWh) Wärme und 2338 GWh Strom. Sie tragen damit rund 2.5 Prozent zur Deckung des schweizerischen Gesamtenergiebedarfs bzw. knapp 4 Prozent zur schweizerischen Stromproduktion bei. Die Geofachdaten KVA dokumentieren den aktuellen Stand verwerteter Abfallmengen und der nach aussen gelieferten Energiemengen. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Thermische Netze",
+    "Beschreibung": "Unter Thermischen Netzen - auch Fernwärme-, Nahwärme- oder Fernkältenetze - versteht man eine Infrastruktur, welche mehrere Gebäude auf verschiedenen Grundstücken mit thermischer Energie versorgt. Es ist eine leitungsgebundene Wärmeversorgung von Kunden über Wasser oder Dampf. Neben Fernwärmenetzen existieren auch Fernkältenetze - deshalb verwendet man heute den allgemeineren Begriff Thermische Netze. Die Energieversorgung von Thermischen Netzen ist dabei nicht zwangsläufig erneuerbar, aber sie zeichnet sich oft - so zum Beispiel bei Kehrichtverbrennungsanlagen - durch eine geringe Bilanz an CO2-Emissionen aus. So ermöglicht Fernwärme z.B. die Nutzung von Abwärme oder den Einsatz von erneuerbaren Energien und gewinnt deshalb zunehmend an Bedeutung. Fernwärme beschreibt eine leitungsgebundene Wärmeversorgung von Kunden über Wasser oder Dampf mit zentral erzeugter Wärme und deckt einen breiten Leistungsbereich mit Anschlussleistungen von weniger als 100 kW bis zu über 1 GW ab. Eine Wärmeverteilung einzig über eine Verteilergruppe gilt nicht als Fernwärme. Die Geofachdaten `Thermische Netze` dokumentieren den aktuellen Bestand der Fernwärmenetze in der Schweiz. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Dufour Karte",
+    "Beschreibung": "Geodaten des Bundesamtes für Energie, als WMS der swisstopo bezogen. Die Topographische Karte der Schweiz 1:100 000 (Dufourkarte) ist das erste amtliche Kartenwerk, das die Schweiz landesweit abdeckt. Sie wurde zwischen 1845 und 1865 publiziert und entstand damit parallel zum modernen Bundesstaat. Vorgeschichte: Nach ersten Ansätzen in der Helvetik (1798-1803) wurden ab 1809 erste Vermessungen auf eidgenössischer Ebene durch die Offiziere des Quartiermeisterstabs vorgenommen. Doch die Arbeiten kamen erst richtig vom Fleck, als Guillaume-Henri Dufour (1787-1875) 1832 zum Oberstquartiermeister der Eidgenossenschaft (Generalstabschef) ernannt wurde. Zu seinen Aufgaben gehörte auch die Erstellung der Topographischen Karte der Schweiz 1:100 000.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AR",
+    "Titel": "Dufour Karte",
+    "Beschreibung": "Geodaten des Bundesamtes für Energie, als WMS der swisstopo bezogen. Die Topographische Karte der Schweiz 1:100 000 (Dufourkarte) ist das erste amtliche Kartenwerk, das die Schweiz landesweit abdeckt. Sie wurde zwischen 1845 und 1865 publiziert und entstand damit parallel zum modernen Bundesstaat. Vorgeschichte: Nach ersten Ansätzen in der Helvetik (1798-1803) wurden ab 1809 erste Vermessungen auf eidgenössischer Ebene durch die Offiziere des Quartiermeisterstabs vorgenommen. Doch die Arbeiten kamen erst richtig vom Fleck, als Guillaume-Henri Dufour (1787-1875) 1832 zum Oberstquartiermeister der Eidgenossenschaft (Generalstabschef) ernannt wurde. Zu seinen Aufgaben gehörte auch die Erstellung der Topographischen Karte der Schweiz 1:100 000.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Einteilung Dufourkarte Raster",
+    "Beschreibung": "Die Topographische Karte der Schweiz 1:100 000 (Dufourkarte) ist das erste amtliche Kartenwerk, das die Schweiz landesweit abdeckt. Sie wurde zwischen 1845 und 1865 publiziert und bis 1939 nachgeführt. Der Datensatz `Blatteinteilung der Dufourkarte` zeigt den Perimeter, die Nummer und den Namen jedes Kartenblattes. Die Blätter mit Ausbuchtungen auf den gedruckten Ausgaben werden mit einer etwas grösseren Fläche als bei den Standardblättern dargestellt. Das Titelblatt und die Karten Fort de l`Ecluse, Rheineck und Bergamo werden zusammen mit einer Nachbarkarte dargestellt.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Amtliches Strassenverzeichnis",
+    "Beschreibung": "Offizieller Datensatz für `Amtliches Verzeichnis der Strassen`, ID196, gemäss Katalog der Geobasisdaten nach Bundesrecht. Das amtliche Verzeichnis der Strassen beinhaltet sämtliche Strassennamen welche im Eidgenössischen Gebäude- und Wohnungsregister (GWR) offiziell deklariert werden. Die Verantwortlichkeit für die Vollständigkeit der Namen im amtlichen Verzeichnis der Strassen erfolgt nach kantonalen Vorschriften.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Windenergieanlagen",
+    "Beschreibung": "Windenergieanlagen nutzen die kinetische Energie der anströmenden Luft zur Rotation der Flügel. Die auf diese Weise erzeugte mechanische Energie wird von einem Generator in elektrische Energie umgewandelt.Die erste Windenergieanlage der Schweiz wurde 1986 beim Soolhof (Langenbruck, BL) mit einer Leistung von 28 kW in Betrieb genommen. 2013 gibt es insgesamt 34 Windenergieanlagen, die rund 85 Gigawattstunden (GWh) Windstrom produzieren. Der grösste Windpark befindet sich auf dem Mont Crosin im Berner Jura bei St. Imier: Hier stehen 16 Windturbinen mit einer Gesamtleistung von 23,6 MW. Weitere Grossanlagen stehen u.a. im Rhonetal (VS), bei Entlebuch (LU) und auf dem Gütsch ob Andermatt (UR). In der Schweiz kann sich die Windenergie noch stark entwickeln. So sollen Windenergieanlagen bis zum Jahr 2020 rund 600 GWh und bis 2050 etwa 4`000 GWh Strom pro Jahr produzieren. Geeignete Standorte befinden sich auf den Jurahöhen, aber auch in den Alpen und Voralpen und im westlichen Mittelland. Die Geofachdaten `Windenergieanlagen` dokumentieren den aktuellen Bestand der Windenergieanlagen der Schweiz. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Wärme-/Kältenachfrage Industrie",
+    "Beschreibung": "Die Wärme- und Kältenachfrage ist für die strategische Planung von thermischen Netzen von zentraler Bedeutung. Der Bau eines thermischen Netzes in einem Gebiet lohnt sich erst bei genügendem Wärme- und/oder Kälteabsatz. .Die Wärmenachfrage dient in der strategischen Planung zur Identifizierung von grösseren zusammenhängenden Gebieten, die sich für ein thermisches Netz eignen können. Ab einer Wärmedichte von 700 MWh/a pro Hektare gilt ein Gebiet als geeignet. Neben der Wärmedichte ist auch das erforderliche Temperaturniveau für die Wärmeversorgung wichtig. In der Industrie und Gewerbe wird zum Teil Prozesswärme auf sehr hohem Niveau (z.T. 1-000 °C und mehr) benötigt, die mit einem thermischen Netz nicht bereitgestellt werden kann. Deshalb wurde die Wärmenachfrage von Industrie und Gewerbe in einen eigenen Datensatz erfasst. Die Datengrundlage bildet die Statistik der Unternehmensstruktur (STATENT) des BFS aus dem Jahr 2013, ergänzt mit Zahlen aus dem jährlichen Bericht «Energieverbrauch in der Industrie und im Dienstleistungssektor» des BFE. Die Wärmenachfrage wird als Wärmedichte im Hektarraster dargestellt. Die Wärmedichte ist anhand einer Farbskala ersichtlich. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+    "ServiceTyp": "WMTS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Wärme-/Kältenachfrage Industrie",
+    "Beschreibung": "Die Wärme- und Kältenachfrage ist für die strategische Planung von thermischen Netzen von zentraler Bedeutung. Der Bau eines thermischen Netzes in einem Gebiet lohnt sich erst bei genügendem Wärme- und/oder Kälteabsatz. .Die Wärmenachfrage dient in der strategischen Planung zur Identifizierung von grösseren zusammenhängenden Gebieten, die sich für ein thermisches Netz eignen können. Ab einer Wärmedichte von 700 MWh/a pro Hektare gilt ein Gebiet als geeignet. Neben der Wärmedichte ist auch das erforderliche Temperaturniveau für die Wärmeversorgung wichtig. In der Industrie und Gewerbe wird zum Teil Prozesswärme auf sehr hohem Niveau (z.T. 1`000 °C und mehr) benötigt, die mit einem thermischen Netz nicht bereitgestellt werden kann. Deshalb wurde die Wärmenachfrage von Industrie und Gewerbe in einen eigenen Datensatz erfasst. Die Datengrundlage bildet die Statistik der Unternehmensstruktur (STATENT) des BFS aus dem Jahr 2013, ergänzt mit Zahlen aus dem jährlichen Bericht `Energieverbrauch in der Industrie und im Dienstleistungssektor` des BFE. Die Wärmenachfrage wird als Wärmedichte im Hektarraster dargestellt. Die Wärmedichte ist anhand einer Farbskala ersichtlich. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Postleitzahlen und Ortschaften CH",
+    "Beschreibung": "Geodaten der Geodäsie und Eidgenössischen Vermessungsdirektion, als WMS der swisstopo bezogen. Amtliches Ortschaftenverzeichnis mit Postleitzahl und Perimeter. Mit Artikel 24 der Verordnung über die geografischen Namen (GeoNV) wurde das Bundesamt für Landestopografie swisstopo beauftragt, das neue amtliche Ortschaftenverzeichnis mit Postleitzahl und Perimeter zu erstellen, zu verwalten und zu veröffentlichen. Dieser Datensatz wird zentral bei swisstopo geführt und entspricht mit Ausnahme des entfernten Identifikators «IDENT PLZ, Zusatzziffern» in der Tabelle «PLZ» dem TOPIC «PLZOrtschaft» der amtlichen Vermessung. Der Datensatz ist flächendeckend über die ganze Schweiz und kann kostenlos bezogen werden (Datensatz wird monatlich nachgeführt).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AI",
+    "Titel": "Windenergieanlagen CH",
+    "Beschreibung": "Geodaten des Bundesamtes für Energie, als WMS der swisstopo bezogen. Windenergieanlagen nutzen die kinetische Energie der anströmenden Luft zur Rotation der Flügel. Die auf diese Weise erzeugte mechanische Energie wird von einem Generator in elektrische Energie umgewandelt.Die erste Windenergieanlage der Schweiz wurde 1986 beim Soolhof (Langenbruck, BL) mit einer Leistung von 28 kW in Betrieb genommen. 2013 gibt es insgesamt 34 Windenergieanlagen, die rund 85 Gigawattstunden (GWh) Windstrom produzieren. Der grösste Windpark befindet sich auf dem Mont Crosin im Berner Jura bei St. Imier: Hier stehen 16 Windturbinen mit einer Gesamtleistung von 23,6 MW. Weitere Grossanlagen stehen u.a. im Rhonetal (VS), bei Entlebuch (LU) und auf dem Gütsch ob Andermatt (UR). In der Schweiz kann sich die Windenergie noch stark entwickeln. So sollen Windenergieanlagen bis zum Jahr 2020 rund 600 GWh und bis 2050 etwa 4‘000 GWh Strom pro Jahr produzieren. Geeignete Standorte befinden sich auf den Jurahöhen, aber auch in den Alpen und Voralpen und im westlichen Mittelland. Die Geofachdaten «Windenergieanlagen» dokumentieren den aktuellen Bestand der Windenergieanlagen der Schweiz. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AR",
+    "Titel": "Postleitzahlen und Ortschaften CH",
+    "Beschreibung": "Geodaten der Geodäsie und Eidgenössischen Vermessungsdirektion, als WMS der swisstopo bezogen. Amtliches Ortschaftenverzeichnis mit Postleitzahl und Perimeter. Mit Artikel 24 der Verordnung über die geografischen Namen (GeoNV) wurde das Bundesamt für Landestopografie swisstopo beauftragt, das neue amtliche Ortschaftenverzeichnis mit Postleitzahl und Perimeter zu erstellen, zu verwalten und zu veröffentlichen. Dieser Datensatz wird zentral bei swisstopo geführt und entspricht mit Ausnahme des entfernten Identifikators «IDENT PLZ, Zusatzziffern» in der Tabelle «PLZ» dem TOPIC «PLZOrtschaft» der amtlichen Vermessung. Der Datensatz ist flächendeckend über die ganze Schweiz und kann kostenlos bezogen werden (Datensatz wird monatlich nachgeführt).",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "KT_AR",
+    "Titel": "Windenergieanlagen CH",
+    "Beschreibung": "Geodaten des Bundesamtes für Energie, als WMS der swisstopo bezogen. Windenergieanlagen nutzen die kinetische Energie der anströmenden Luft zur Rotation der Flügel. Die auf diese Weise erzeugte mechanische Energie wird von einem Generator in elektrische Energie umgewandelt.Die erste Windenergieanlage der Schweiz wurde 1986 beim Soolhof (Langenbruck, BL) mit einer Leistung von 28 kW in Betrieb genommen. 2013 gibt es insgesamt 34 Windenergieanlagen, die rund 85 Gigawattstunden (GWh) Windstrom produzieren. Der grösste Windpark befindet sich auf dem Mont Crosin im Berner Jura bei St. Imier: Hier stehen 16 Windturbinen mit einer Gesamtleistung von 23,6 MW. Weitere Grossanlagen stehen u.a. im Rhonetal (VS), bei Entlebuch (LU) und auf dem Gütsch ob Andermatt (UR). In der Schweiz kann sich die Windenergie noch stark entwickeln. So sollen Windenergieanlagen bis zum Jahr 2020 rund 600 GWh und bis 2050 etwa 4‘000 GWh Strom pro Jahr produzieren. Geeignete Standorte befinden sich auf den Jurahöhen, aber auch in den Alpen und Voralpen und im westlichen Mittelland. Die Geofachdaten «Windenergieanlagen» dokumentieren den aktuellen Bestand der Windenergieanlagen der Schweiz. Sämtliche Informationen basieren auf den Auskünften der Anlagenbetreibenden. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+    "ServiceTyp": "WMS",
+    "Score": 50
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Wärme-/Kältenachfrage Wohnen und DL",
+    "Beschreibung": "Die Wärme- und Kältenachfrage ist für die strategische Planung von thermischen Netzen von zentraler Bedeutung. Der Bau eines thermischen Netzes in einem Gebiet lohnt sich erst bei genügendem Wärme- und/oder Kälteabsatz. Die Wärmenachfrage dient in der strategischen Planung zur Identifizierung von grösseren zusammenhängenden Gebieten, die sich für ein thermisches Netz eignen können. Ab einer Wärmedichte von 700 MWh/a pro Hektare gilt ein Gebiet als geeignet. Neben der Wärmedichte ist auch das erforderliche Temperaturniveau für die Wärmeversorgung wichtig. In der Industrie und dem Gewerbe wird zum Teil Prozesswärme auf sehr hohem Niveau (z.T. 1-000 °C und mehr) benötigt, die mit einem thermischen Netz nicht bereitgestellt werden kann. Deshalb wurde die Wärmenachfrage von Industrie in einem eigenen Datensatz erfasst. Die Wärmenachfrage von Wohn- und Dienstleistungsgebäuden ist für thermische Netze am interessantesten, da die allermeisten Gebäude dieser Kategorien mit tiefen Temperaturen von ca. 12°C bis max. 90°C versorgt werden können. Die Datengrundlage bildet die Gebäude- und Wohnungsstatistik (GWS) aus dem Jahr 2014 und die Statistik der Unternehmensstruktur (STATENT) des BFS aus dem Jahr 2013, ergänzt mit Zahlen aus dem jährlichen Bericht «Energieverbrauch in der Industrie und im Dienstleistungssektor» des BFE. Die Wärmenachfrage wird als Wärmedichte im Hektarraster dargestellt. Die Wärmedichte ist anhand einer Farbskala ersichtlich. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+    "ServiceTyp": "WMTS",
+    "Score": 75
+  },
+  {
+    "Kanton": "Bund",
+    "Titel": "Wärme-/Kältenachfrage Wohnen und DL",
+    "Beschreibung": "Die Wärme- und Kältenachfrage ist für die strategische Planung von thermischen Netzen von zentraler Bedeutung. Der Bau eines thermischen Netzes in einem Gebiet lohnt sich erst bei genügendem Wärme- und/oder Kälteabsatz. Die Wärmenachfrage dient in der strategischen Planung zur Identifizierung von grösseren zusammenhängenden Gebieten, die sich für ein thermisches Netz eignen können. Ab einer Wärmedichte von 700 MWh/a pro Hektare gilt ein Gebiet als geeignet. Neben der Wärmedichte ist auch das erforderliche Temperaturniveau für die Wärmeversorgung wichtig. In der Industrie und dem Gewerbe wird zum Teil Prozesswärme auf sehr hohem Niveau (z.T. 1`000 °C und mehr) benötigt, die mit einem thermischen Netz nicht bereitgestellt werden kann. Deshalb wurde die Wärmenachfrage von Industrie in einem eigenen Datensatz erfasst. Die Wärmenachfrage von Wohn- und Dienstleistungsgebäuden ist für thermische Netze am interessantesten, da die allermeisten Gebäude dieser Kategorien mit tiefen Temperaturen von ca. 12°C bis max. 90°C versorgt werden können. Die Datengrundlage bildet die Gebäude- und Wohnungsstatistik (GWS) aus dem Jahr 2014 und die Statistik der Unternehmensstruktur (STATENT) des BFS aus dem Jahr 2013, ergänzt mit Zahlen aus dem jährlichen Bericht `Energieverbrauch in der Industrie und im Dienstleistungssektor` des BFE. Die Wärmenachfrage wird als Wärmedichte im Hektarraster dargestellt. Die Wärmedichte ist anhand einer Farbskala ersichtlich. Die Angaben dienen als Informationsmaterial für die Öffentlichkeit und stellen keine amtliche Auskunft oder rechtsverbindliche Aussage dar.",
+    "ServiceTyp": "WMS",
+    "Score": 75
+  }
+]

@@ -122,17 +122,17 @@ Nun fehlt nur noch der EventHandler. Verwende im Button "onClick" und rufe dort 
 
 ```
 <button onClick={() => {
-    // setState-Funktion 1;
-    // setState-Funktion 2;
-    // setState-Funktion 3;
+    setState-Funktion 1;
+    setState-Funktion 2;
+    setState-Funktion 3;
 }}>
 
 ```
 
 Teste, ob das Zurücksetzen der Filter mit dem Button funktioniert und die Tabelle reagiert.
 
-#### Aufgabe 4 - Header auslagern
+### Aufgabe 4 - Header auslagern
 
-Auch der Header (das <header>-Element und alle untergeordneten Elemente) kann in eine eigene Komponente ausgelagert werden. Erstelle eine neue Datei für die Komponente und passe dann die App.js sowie die neue Komponente an. Gib die benötigten Daten via Props an den Header. Die Hooks belässt du in der App.js. Teste danach, ob die Filter und die Tabelle weiter funktionieren.
+Auch der Header (das `<header>`-Element und alle untergeordneten Elemente) kann in eine eigene Komponente ausgelagert werden. Erstelle eine neue Datei für die Komponente und passe dann die App.js sowie die neue Komponente an. Gib die benötigten Daten via Props an den Header. Die Hooks belässt du in der App.js. Teste danach, ob die Filter und die Tabelle weiter funktionieren.
 
 **Achtung**: Du musst auch die Import-Statements für "logo" und "data" sowie die Zeile zur Generierung der Kantonsliste (`const kantone = [...new Set...` ) in die neue Komponente verschieben.
